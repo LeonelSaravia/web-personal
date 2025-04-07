@@ -1,4 +1,4 @@
-const calcular = (a,b) => {
+const sumar = (a,b) => {
   return a + b;
 }
 
